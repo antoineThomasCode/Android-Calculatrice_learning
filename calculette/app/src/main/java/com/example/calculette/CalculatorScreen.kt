@@ -88,7 +88,9 @@ fun CalculatorScreen(){
                     modifier = Modifier.weight(1f),
                     icon = Icons.Default.ArrowBack,
                     isHighLight = true
-                ) {}
+                ) {
+
+                }
             }
         }
     }
